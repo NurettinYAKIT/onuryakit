@@ -1,0 +1,7 @@
+baseURL="https://onuryakit.github.io/"
+title= "Hello from N. Onur YAKIT"
+theme = "hallo"
+languageCode = 'en-us'
+
+[Author]
+    name = "N.Onur YAKIT"
